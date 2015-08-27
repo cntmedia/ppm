@@ -9,7 +9,7 @@ def applescript_subprocess(applescript_code):
 
 prompt_dialog_for_short_code_number = '''
 tell application (path to frontmost application as text)
-set short_code_number to the text returned of (display dialog "What Number?" default answer "")
+set short_code_number to the text returned of (display dialog "!!!!!?" default answer "")
 end tell
 return short_code_number
 '''
