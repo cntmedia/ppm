@@ -1,1 +1,1 @@
-### This is a simple python password manager with Applescript as the GUI
+# ppm
